@@ -1,0 +1,7 @@
+print("She walks in beauty, like the night")
+print("Of cloudless climes and starry skies")
+print("And all that’s best of dark and bright")
+print("Meet in her aspect and her eyes")
+print("Thus mellowed to that tender light")
+print("Which heaven to gaudy day denies.")
+print("Kyle Segrist")
